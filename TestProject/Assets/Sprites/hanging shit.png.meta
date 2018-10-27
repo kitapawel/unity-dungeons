@@ -1,0 +1,647 @@
+fileFormatVersion: 2
+guid: 1229b2f21b8f3614eb53dfd3aa5639a7
+timeCreated: 1487436532
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hanging shit_0
+    21300002: hanging shit_1
+    21300004: hanging shit_2
+    21300006: hanging shit_3
+    21300008: hanging shit_4
+    21300010: hanging shit_5
+    21300012: hanging shit_6
+    21300014: hanging shit_7
+    21300016: hanging shit_8
+    21300018: hanging shit_9
+    21300020: hanging shit_10
+    21300022: hanging shit_11
+    21300024: hanging shit_12
+    21300026: hanging shit_13
+    21300028: hanging shit_14
+    21300030: hanging shit_15
+    21300032: hanging shit_16
+    21300034: hanging shit_17
+    21300036: hanging shit_19
+    21300038: hanging shit_20
+    21300040: hanging shit_21
+    21300042: hanging shit_22
+    21300044: hanging shit_23
+    21300046: hanging shit_24
+    21300048: hanging shit_25
+    21300050: hanging shit_26
+    21300052: hanging shit_27
+    21300054: hanging shit_28
+    21300056: hanging shit_29
+    21300058: hanging shit_18
+    21300060: hanging shit_30
+    21300062: hanging shit_31
+    21300064: hanging shit_32
+    21300066: hanging shit_33
+    21300068: hanging shit_34
+    21300070: hanging shit_35
+    21300072: hanging shit_36
+    21300074: hanging shit_37
+    21300076: hanging shit_38
+    21300078: hanging shit_39
+    21300080: hanging shit_40
+    21300082: hanging shit_41
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hanging shit_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 72
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 71
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 72
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 71
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 72
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 69
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_6
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 69
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 60
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 63
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 52
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 52
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_11
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 60
+        width: 5
+        height: 8
+      alignment: 9
+      pivot: {x: 0.702594, y: 0.9963827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_12
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 52
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_13
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 55
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_14
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 55
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_15
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 54
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_16
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 54
+        width: 15
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 35
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 35
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_20
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 35
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_21
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 35
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 36
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_23
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 35
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_24
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 35
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_25
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 35
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_26
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 35
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_27
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 19
+        width: 13
+        height: 12
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_28
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 21
+        width: 13
+        height: 12
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_29
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 28
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 35
+        width: 3
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 18
+        width: 9
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_31
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 29
+        width: 5
+        height: 3
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_32
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 25
+        width: 5
+        height: 3
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_33
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 21
+        width: 5
+        height: 3
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_34
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 29
+        width: 5
+        height: 3
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_35
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 22
+        width: 5
+        height: 6
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_36
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 29
+        width: 5
+        height: 3
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 29
+        width: 4
+        height: 4
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_38
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 25
+        width: 4
+        height: 3
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_39
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 20
+        width: 3
+        height: 4
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_40
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 25
+        width: 4
+        height: 3
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hanging shit_41
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 21
+        width: 4
+        height: 3
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

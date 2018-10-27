@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 389c2d25471822442a65561455800fd1
+timeCreated: 1487159319
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sEastWarriorGetDamage_strip8_0
+    21300002: sEastWarriorGetDamage_strip8_1
+    21300004: sEastWarriorGetDamage_strip8_2
+    21300006: sEastWarriorGetDamage_strip8_3
+    21300008: sEastWarriorGetDamage_strip8_4
+    21300010: sEastWarriorGetDamage_strip8_5
+    21300012: sEastWarriorGetDamage_strip8_6
+    21300014: sEastWarriorGetDamage_strip8_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sEastWarriorGetDamage_strip8_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sEastWarriorGetDamage_strip8_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sEastWarriorGetDamage_strip8_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sEastWarriorGetDamage_strip8_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 20
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sEastWarriorGetDamage_strip8_4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 31
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sEastWarriorGetDamage_strip8_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 0
+        width: 29
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sEastWarriorGetDamage_strip8_6
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 0
+        width: 24
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sEastWarriorGetDamage_strip8_7
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
